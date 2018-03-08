@@ -10,7 +10,10 @@ function theBeatlesPlay(m, i) {
 function johnLennonFacts(f) {
   var myArray = [];
   c = f.length;
+  i = 0;
   while (myArray.length < c) {
-    
+    myArray.push(i);
+    i++
   }
+  return myArray;
 }
