@@ -7,3 +7,8 @@ function theBeatlesPlay(m, i) {
   return myArray;
 }
 
+function johnLennonFacts(f) {
+  var myArray = [];
+  c = f.length;
+  while 
+}
