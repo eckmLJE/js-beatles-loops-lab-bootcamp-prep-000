@@ -4,3 +4,4 @@ function theBeatlesPlay(m, i) {
     myArray.push(m.slice(c) + " plays " + i.slice(c))
   }
 }
+
