@@ -8,5 +8,5 @@ function theBeatlesPlay(m, i) {
 }
 
 function johnLennonFacts(f) {
-  var myArray = [];
+  var johnArray = [];
 }
