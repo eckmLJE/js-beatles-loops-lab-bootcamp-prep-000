@@ -12,7 +12,7 @@ function johnLennonFacts(f) {
   c = f.length;
   i = 0;
   while (myArray.length < c) {
-    myArray.push(i);
+    myArray.push(f.i + "!!!");
     i++
   }
   return myArray;
