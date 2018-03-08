@@ -9,5 +9,10 @@ function theBeatlesPlay(m, i) {
 
 function johnLennonFacts(f) {
   var johnArray = [];
-  while ()
+  var c = 0;
+  while (c <= f.length) {
+    var newFact = f.slice(c, c+1) + "!!!";
+    johnArray.push(newFact);
+    c = c + 1;
+  }
 }
