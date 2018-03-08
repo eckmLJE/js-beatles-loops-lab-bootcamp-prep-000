@@ -15,5 +15,5 @@ function johnLennonFacts(f) {
     johnArray.push(newFact);
     c = c + 1;
   }
-  return newFact;
+  return johnArray;
 }
