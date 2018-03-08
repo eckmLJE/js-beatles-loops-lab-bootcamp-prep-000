@@ -25,4 +25,5 @@ function iLoveTheBeatles(n) {
     n = n + 1;
   }
   while (n < 15)
+  return loveArray;
 }
